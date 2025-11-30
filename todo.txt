@@ -1,0 +1,5 @@
+[X] You can click on an already selected cell and it will change it. (don't let already selected cells be clicked)
+[X] Clicking anywhere on the screen I think swaps the current player, even if a cell isn't selected? or maybe I just had a really funny click on the edge of a cell.
+[] After win condition, you can continue playing. Nothing should happen on click.
+[] Add a restart button.
+[] Make the font bigger and a nice font.
